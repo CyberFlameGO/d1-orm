@@ -1,5 +1,13 @@
 # d1-orm
 
+## 0.2.0
+
+### Minor Changes
+
+- [#21](https://github.com/Interactions-as-a-Service/d1-orm/pull/21) [`b2559ef`](https://github.com/Interactions-as-a-Service/d1-orm/commit/b2559ef2a79ed908b1c5725431af5415490e3201) Thanks [@Skye-31](https://github.com/Skye-31)! - [breaking] feat: Switch to use a QueryBuilder instead of duplicate code in the Model class
+
+  This will be much more expandable in future to support things like advanced where querying, using operators other than AND, joins, etc.
+
 ## 0.1.3
 
 ### Patch Changes
